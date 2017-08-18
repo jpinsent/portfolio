@@ -2,4 +2,4 @@
 
 Testing website layout.
 
-![Image](assets/supergrappleicon.png)
+![Image](assets/images/supergrappleicon.png)
