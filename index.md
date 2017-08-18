@@ -9,5 +9,5 @@ Testing website layout.
 - ![Image](assets/images/kingofslingicon.png) King of Sling - [Android](http://kingofslinggame.com/) / [iOS](http://kingofslingios.com/)
 - ![Image](assets/images/jetpackattackicon.png) Jetpack Attack - [Android](http://jetpackattackgame.com/) / [iOS](http://jetpackattackios.com/)
 - ![Image](assets/images/astralaceicon.png) Astral Ace - Coming soon!
-- ![Image](assets/images/tictactoeicon.png) Tic Tac Toe - Coming soon!
+- ![Image](assets/images/tictactoeicon.png) Tic Tac Toe - [Android](https://tictactoedownload.com/)
 - ![Image](assets/images/parashootericon.png) Para-Shooter - Coming soon!
