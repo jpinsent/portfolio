@@ -2,6 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+img
+{
+  max-width: 100px;
+  max-height: 100px;
+}
+
 img#double 
 {
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
