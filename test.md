@@ -6,8 +6,8 @@ Testing website layout.
 ### Rockslide
 <img class="icon" src="assets/images/rockslideicon.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.rockslide.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">(http://www.rockslideios.com)
+[<img class="badge" src="assets/images/google-play-badge.png">](http://www.rockslidegame.com)
+[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.rockslideios.com)
 
 -------------
 ### Super Grapple
