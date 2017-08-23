@@ -11,10 +11,10 @@ Testing website layout.
 
 -------------
 ### Super Grapple
-![Image](assets/images/supergrappleicon.png)
+<img class="icon" src="assets/images/supergrappleicon.png">
 
-![Image](assets/images/google-play-badge.png)
-![Image](assets/images/itunes-badge.svg)
+[<img class="badge" src="assets/images/google-play-badge.png">](http://www.supergrapple.com)
+[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.supergrappleios.com)
 
 -------------
 ### Quest of Legend
