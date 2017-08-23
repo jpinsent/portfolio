@@ -2,6 +2,26 @@
 
 Testing website layout.
 
+-------------
+### Rockslide
+![Image](assets/images/rockslideicon.png)
+
+-------------
+### Super Grapple
+![Image](assets/images/supergrappleicon.png)
+
+-------------
+### Quest of Legend
+![Image](assets/images/questoflegendicon.png)
+
+-------------
+### Sword Spinner
+![Image](assets/images/swordspinnericon.png)
+
+-------------
+### King of Sling
+![Image](assets/images/kingofslingicon.png)
+
 - ![Image](assets/images/rockslideicon.png) Rockslide - [Android](http://www.rockslidegame.com) / [iOS](http://www.rockslideios.com) Rockslide is a top-down puzzle game where you push boulders to guide the hero to an exit. The hero is controlled by swiping in the direction you wish to move. Gems can be collected for a better level score, but watch out! Pushing a boulder over a gem will destroy it. Try to earn a perfect score on each level by collecting all of the gems!
 - ![Image](assets/images/supergrappleicon.png) Super Grapple - [Android](http://www.supergrapple.com) / [iOS](http://www.supergrappleios.com) Super Grapple features randomly generated endless scrolling levels. Tap ceiling tiles to deploy your sausage-link grappling hook and use the momentum to propel yourself to a higher score.
 - ![Image](assets/images/questoflegendicon.png) Quest of Legend - [Android](http://questoflegendgame.com/) / [iOS](http://questoflegendios.com/) Quest of Legend features randomly generated forest mazes and three unlockable characters with a unique set of skills. Vanquish enemies and collect all four legendary treasures to be victorious.
