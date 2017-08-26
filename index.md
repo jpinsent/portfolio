@@ -12,7 +12,6 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 </div>
 
 <img class="screen" src="assets/images/rockslide/screenshot0.png">
-<img class="screen" src="assets/images/rockslide/screenshot1.png">
 <img class="screen" src="assets/images/rockslide/screenshot2.png">
 <img class="screen" src="assets/images/rockslide/screenshot3.png">
 
@@ -26,6 +25,11 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 - Implemented core gameplay, including grappling hook mechanics and unlockable characters
 - Among Adknown's top reviewed games
 </div>
+
+<img class="screen" src="assets/images/super-grapple/screenshot0.png">
+<img class="screen" src="assets/images/super-grapple/screenshot1.png">
+<img class="screen" src="assets/images/super-grapple/screenshot2.png">
+
 <a href="https://play.google.com/store/apps/details?id=com.adknown.supergrapple" target="_blank"><img class="badge" src="assets/images/google-play-badge.png"></a>
 <a href="https://itunes.apple.com/us/app/super-grapple/id1245782227" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg"></a>
 
@@ -36,6 +40,11 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 - Implemented three different characters with different abilities
 - Added random level generation using a tile-based map
 </div>
+
+<img class="screen" src="assets/images/quest-of-legend/screenshot0.png">
+<img class="screen" src="assets/images/quest-of-legend/screenshot1.png">
+<img class="screen" src="assets/images/quest-of-legend/screenshot2.png">
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.questoflegendgame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.questoflegendios.com)
 
@@ -43,6 +52,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/swordspinnericon.png">
 ### Sword Spinner
+
+<img class="screen" src="assets/images/sword-spinner/screenshot0.png">
+<img class="screen" src="assets/images/sword-spinner/screenshot1.png">
+<img class="screen" src="assets/images/sword-spinner/screenshot2.png">
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.swordspinner.com)
@@ -53,6 +66,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="icon" src="assets/images/kingofslingicon.png">
 ### King of Sling
 
+<img class="screen" src="assets/images/king-of-sling/screenshot0.png">
+<img class="screen" src="assets/images/king-of-sling/screenshot1.png">
+<img class="screen" src="assets/images/king-of-sling/screenshot2.png">
+
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.kingofslinggame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.kingofslingios.com)
@@ -61,6 +78,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/jetpackattackicon.png">
 ### Jetpack Attack
+
+<img class="screen" src="assets/images/jetpack-attack/screenshot0.png">
+<img class="screen" src="assets/images/jetpack-attack/screenshot1.png">
+<img class="screen" src="assets/images/jetpack-attack/screenshot2.png">
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.jetpackattackgame.com)
@@ -71,6 +92,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="icon" src="assets/images/astralaceicon.png">
 ### Astral Ace
 
+<img class="screen" src="assets/images/astral-ace/screenshot0.png">
+<img class="screen" src="assets/images/astral-ace/screenshot1.png">
+<img class="screen" src="assets/images/astral-ace/screenshot2.png">
+
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.astralacegame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.astralaceios.com)
@@ -80,6 +105,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="icon" src="assets/images/tictactoeicon.png">
 ### Tic Tac Toe
 
+<img class="screen" src="assets/images/tic-tac-toe/screenshot0.png">
+<img class="screen" src="assets/images/tic-tac-toe/screenshot1.png">
+<img class="screen" src="assets/images/tic-tac-toe/screenshot2.png">
+
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.tictactoedownload.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.tictactoeios.com)
@@ -88,6 +117,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/parashootericon.png">
 ### Para-Shooter
+
+<img class="screen" src="assets/images/para-shooter/screenshot0.png">
+<img class="screen" src="assets/images/para-shooter/screenshot1.png">
+<img class="screen" src="assets/images/para-shooter/screenshot2.png">
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.parashootergame.com)
