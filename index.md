@@ -54,11 +54,12 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 ### Sword Spinner
 - Test
 - Test
+
 <img class="landscape" src="assets/images/sword-spinner/screenshot0.png">
 <img class="landscape" src="assets/images/sword-spinner/screenshot1.png">
 <img class="landscape" src="assets/images/sword-spinner/screenshot2.png">
-
 </div>
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.swordspinner.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.swordspinnerios.com)
 
@@ -68,11 +69,12 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 ### King of Sling
 - Test
 - Test
+
 <img class="portrait" src="assets/images/king-of-sling/screenshot0.png">
 <img class="portrait" src="assets/images/king-of-sling/screenshot1.png">
 <img class="portrait" src="assets/images/king-of-sling/screenshot2.png">
-
 </div>
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.kingofslinggame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.kingofslingios.com)
 
@@ -82,11 +84,12 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 ### Jetpack Attack
 - Test
 - Test
+
 <img class="landscape" src="assets/images/jetpack-attack/screenshot0.png">
 <img class="landscape" src="assets/images/jetpack-attack/screenshot1.png">
 <img class="landscape" src="assets/images/jetpack-attack/screenshot2.png">
-
 </div>
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.jetpackattackgame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.jetpackattackios.com)
 
@@ -96,11 +99,12 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 ### Astral Ace
 - Test
 - Test
+
 <img class="landscape" src="assets/images/astral-ace/screenshot0.png">
 <img class="landscape" src="assets/images/astral-ace/screenshot1.png">
 <img class="landscape" src="assets/images/astral-ace/screenshot2.png">
-
 </div>
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.astralacegame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.astralaceios.com)
 
@@ -110,11 +114,12 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 ### Tic Tac Toe
 - Test
 - Test
+
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot0.png">
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot1.png">
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot2.png">
-
 </div>
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.tictactoedownload.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.tictactoeios.com)
 
@@ -124,10 +129,11 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 ### Para-Shooter
 - Test
 - Test
+
 <img class="landscape" src="assets/images/para-shooter/screenshot0.png">
 <img class="landscape" src="assets/images/para-shooter/screenshot1.png">
 <img class="landscape" src="assets/images/para-shooter/screenshot2.png">
-
 </div>
+
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.parashootergame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.parashooterios.com)
