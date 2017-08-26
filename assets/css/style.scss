@@ -17,7 +17,6 @@ img.icon
 {
   max-width: 125px;
   max-height: 125px;
-  float: left;
 }
 
 img.badge
@@ -39,8 +38,9 @@ img#double
   margin: 25px;
 }
 
-div.descrip
+div.block
 {
+  display: inline-block;
   clear: both;
 }
 
