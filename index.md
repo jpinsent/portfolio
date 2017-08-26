@@ -74,6 +74,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="portrait" src="assets/images/king-of-sling/screenshot0.png">
 <img class="portrait" src="assets/images/king-of-sling/screenshot1.png">
 <img class="portrait" src="assets/images/king-of-sling/screenshot2.png">
+<img class="portrait" src="assets/images/king-of-sling/screenshot3.png">
+<img class="portrait" src="assets/images/king-of-sling/screenshot4.png">
 
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.kingofslinggame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.kingofslingios.com)
@@ -119,6 +121,7 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot0.png">
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot1.png">
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot2.png">
+<img class="portrait" src="assets/images/tic-tac-toe/screenshot3.png">
 
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.tictactoedownload.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.tictactoeios.com)
