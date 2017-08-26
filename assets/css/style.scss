@@ -37,10 +37,16 @@ img.badge
   max-height: 40px;
 }
 
-img.screen
+img.landscape
 {
   width: 250px;
   height: 150px;
+}
+
+img.portrait
+{
+  width: 150px;
+  height: 250px;
 }
 
 div.block
