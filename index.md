@@ -2,9 +2,10 @@
 All of the games I developed for Adknown Inc. as a part of the Adknown Retro Games team are displayed here. These games were developed in Unity with average development cycles of one and a half weeks (approximately 48 hours).
 
 -------------
-### Rockslide
+
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/rockslideicon.png">
+### Rockslide
 - Implemented tiled level generation from text files to speed up design time and extensibility
 - Built puzzle solving gameplay including touchscreen movement, physics, collision detection
 - Among Adknown's top performing games, with over 11,000 installs on the Google Play Store
@@ -13,9 +14,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.rockslideios.com)
 
 -------------
-### Super Grapple
+
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/supergrappleicon.png">
+### Super Grapple
 - Implemented core gameplay, including grappling hook mechanics and unlockable characters
 - Among Adknown's top reviewed games
 </div>
