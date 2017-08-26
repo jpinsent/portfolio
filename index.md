@@ -14,10 +14,12 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 
 -------------
 ### Super Grapple
+<div class="block">
 <img class="icon" src="assets/images/supergrappleicon.png">
 
 - Implemented core gameplay, including grappling hook mechanics and unlockable characters
 - Among Adknown's top reviewed games
+</div>
 
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.supergrapple.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.supergrappleios.com)
