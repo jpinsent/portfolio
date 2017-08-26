@@ -15,6 +15,7 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="screen" src="assets/images/rockslide/screenshot1.png">
 <img class="screen" src="assets/images/rockslide/screenshot2.png">
 <img class="screen" src="assets/images/rockslide/screenshot3.png">
+
 <a href="https://play.google.com/store/apps/details?id=com.adknown.rockslide" target="_blank"><img class="badge" src="assets/images/google-play-badge.png"></a>
 <a href="https://itunes.apple.com/us/app/rockslide-adknown-retro-games/id1255646868" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg"></a>
 
