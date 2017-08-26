@@ -14,7 +14,6 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.rockslideios.com)
 
 -------------
-
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/supergrappleicon.png">
 ### Super Grapple
@@ -25,9 +24,9 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.supergrappleios.com)
 
 -------------
-### Quest of Legend
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/questoflegendicon.png">
+### Quest of Legend
 - Implemented three different characters with different abilities
 - Added random level generation using a tile-based map
 </div>
@@ -35,54 +34,54 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.questoflegendios.com)
 
 -------------
-### Sword Spinner
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/swordspinnericon.png">
+### Sword Spinner
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.swordspinner.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.swordspinnerios.com)
 
 -------------
-### King of Sling
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/kingofslingicon.png">
+### King of Sling
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.kingofslinggame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.kingofslingios.com)
 
 -------------
-### Jetpack Attack
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/jetpackattackicon.png">
+### Jetpack Attack
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.jetpackattackgame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.jetpackattackios.com)
 
 -------------
-### Astral Ace
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/astralaceicon.png">
+### Astral Ace
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.astralacegame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.astralaceios.com)
 
 -------------
-### Tic Tac Toe
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/tictactoeicon.png">
+### Tic Tac Toe
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.tictactoedownload.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.tictactoeios.com)
 
 -------------
-### Para-Shooter
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/parashootericon.png">
+### Para-Shooter
 
 </div>
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.parashootergame.com)

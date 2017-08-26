@@ -21,6 +21,7 @@ h2
 h3
 {
   font-size: 25px;
+  padding-left: 140px;
 }
 
 img.icon
@@ -36,30 +37,16 @@ img.badge
   max-height: 40px;
 }
 
-img#double 
-{
-  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
-  image-rendering: -moz-crisp-edges;          /* Firefox                        */
-  image-rendering: -o-crisp-edges;            /* Opera                          */
-  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
-  image-rendering: pixelated;                 /* Chrome                         */
-  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
-  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-  transform: scale(2);
-  margin: 25px;
-}
-
 div.block
 {
   display: inline-block;
   clear: both;
+  margin-bottom: 25px;
 }
 
 ul
 {
   margin-left: 120px;
-  margin-top: 35px;
-  margin-bottom: 35px;
 }
 
 .content 
@@ -67,20 +54,4 @@ ul
   margin: auto;
   max-width: 660px;
   overflow: hidden;
-}
-
-.content img 
-{
-  float: left;
-}
-
-.content p
-{
-  margin-left: 85px;
-}
-
-.content b
-{
-  font-size: 75%;
-  color: lightslategray;
 }
