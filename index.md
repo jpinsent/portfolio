@@ -141,7 +141,3 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 
 [<img class="badge" src="assets/images/google-play-badge.png">](http://www.parashootergame.com)
 [<img class="badge" src="assets/images/itunes-badge.svg">](http://www.parashooterios.com)
-
-<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
-    Header set Cache-Control "max-age=604800, public"
-</FilesMatch>
