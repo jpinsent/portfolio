@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body 
+{
+  font-family: 'Tangerine', serif;
+}
+
 .container-lg
 {
   max-width: 800px;
