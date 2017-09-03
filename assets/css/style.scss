@@ -37,8 +37,27 @@ h3
 
 a
 {
-  color: #1fff4f;
   text-decoration: underline;
+}
+
+a:link
+{
+  color: #1fff4f;
+}
+
+a:active
+{
+  color: #1fff4f;
+}
+
+a:hover
+{
+  color: #68ff88;
+}
+
+a:visited
+{
+  color: #06de34;
 }
 
 img.icon
