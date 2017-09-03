@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+body
+{
+  color: #fff;
+  background-color: #282828;
+}
+
 .container-lg
 {
   max-width: 800px;
@@ -27,6 +33,11 @@ h3
 {
   font-size: 25px;
   padding-left: 140px;
+}
+
+.markdown-body img
+{
+  box-sizing: content-box;
 }
 
 img.icon
