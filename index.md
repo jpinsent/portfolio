@@ -52,8 +52,10 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/swordspinnericon.png">
 ### Sword Spinner
-- Test
-- Test
+- Created mobile controls for a sword that spins around the player's touch
+- Added UI health bars that appear above injured enemies
+- Created physics for extra bouncy enemies
+- Added a fire sword that ignites enemies, damaging them over time
 </div>
 
 <img class="landscape" src="assets/images/sword-spinner/screenshot0.png">
@@ -67,8 +69,9 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/kingofslingicon.png">
 ### King of Sling
-- Test
-- Test
+- Implemented sling shot physics that stretches the rubber band to the player's touch
+- Created score multiplier system that awards extra points for consecutive enemy hits
+- Added three different kinds of sling shot ammunition that behave differently
 </div>
 
 <img class="portrait" src="assets/images/king-of-sling/screenshot0.png">
@@ -84,8 +87,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/jetpackattackicon.png">
 ### Jetpack Attack
-- Test
-- Test
+- Extended code from the [Corgi Engine](https://www.assetstore.unity3d.com/en/#!/content/26617)
+- Created random level generation using pre-designed level segments
 </div>
 
 <img class="landscape" src="assets/images/jetpack-attack/screenshot0.png">
@@ -99,8 +102,9 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/astralaceicon.png">
 ### Astral Ace
-- Test
-- Test
+- Added multiplayer functionality using [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786)
+- Worked together with a partner to design the game and develop the gameplay
+- Implemented a singleplayer mode with pursuing enemy AI
 </div>
 
 <img class="landscape" src="assets/images/astral-ace/screenshot0.png">
@@ -114,8 +118,9 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/tictactoeicon.png">
 ### Tic Tac Toe
-- Test
-- Test
+- Ported an existing Java Tic-Tac-Toe game to Unity
+- Optimized code
+- Added unlockable backgrounds
 </div>
 
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot0.png">
@@ -131,8 +136,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/parashootericon.png">
 ### Para-Shooter
-- Test
-- Test
+- Extended code from the [Corgi Engine](https://www.assetstore.unity3d.com/en/#!/content/26617)
+- Created missile AI that pursues the player
 </div>
 
 <img class="landscape" src="assets/images/para-shooter/screenshot0.png">
