@@ -39,7 +39,6 @@ section
   h3
   {
     font-size: 25px;
-    padding-left: 140px;
   }
 
 /* LINKS */
@@ -103,6 +102,11 @@ section
     margin-bottom: 5px;
   }
 
+  div.block h3
+  {
+    padding-left: 140px;
+  }
+  
   div.block ul
   {
     margin-left: 120px;
