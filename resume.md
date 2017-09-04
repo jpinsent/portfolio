@@ -7,7 +7,7 @@
 			<li class="media"><img class="media" src="assets/images/social-media/linkedin-logo.png" alt="Joshua Pinsent's Linkedin Profile"></li>
 		</a>
 		<a href="mailto:joshpinsent@gmail.com">
-			<li class="media"><img class="media" src="assets/images/social-media/gmail-logo-resized.png" alt="Joshua Pinsent's Gmail"></li>
+			<li class="media"><img class="media" src="assets/images/social-media/gmail-logo-stretched.png" alt="Joshua Pinsent's Gmail"></li>
 		</a>
 	</ul>
 </div>
