@@ -4,7 +4,7 @@
 </ul>
 
 ## Résumé
-<a href="" target="_blank">Export as PDF</a>
+<a href="" target="_blank">Download as PDF</a>
 
 -------------
 
@@ -18,6 +18,15 @@
 - Experienced with Windows and Linux operating systems
 - Knowledge of defect tracking systems (JIRA) and incident reporting mechanisms (ServiceFirst, IBM Maximo) to log, quantify, and track the progress of incidents, issues, and change requests
 - Quick learner who is highly adaptable and open to learning new skills, languages, and concepts
+
+#### Education
+**Bachelor of Computing, Computer Science (Honours)**  
+Sep 2013 – Present  
+University of Guelph – Guelph, ON  
+	
+**Ontario Secondary School Diploma**  
+Sep 2007 – Jun 2011  
+Meadowvale Secondary School – Mississauga, ON  
 
 #### Experience
 **Teaching Assistant**  
@@ -45,3 +54,14 @@ May 2016 - Sep 2016
 - Identified queries causing performance issues and create a JIRA to analyze and fix the queries
 - Participated in process improvement meetings giving specific inputs to improve performance
 - Participated in daily scrum meetings and at times volunteered to run the scrum meetings
+
+**Web Developer**  
+University of Guelph  
+May 2015 - Apr 2016  
+- Worked with Drupal platform to set up and maintain accessible websites
+- Worked on a self-directed team to meet requirements
+- Gained working knowledge of web technologies: HTML, CSS, GUI standards, accessibility
+- Utilized Node.js, Selenium and Nightwatch to create automated unit tests
+- Attended seminars for computer and internet security
+- Audited & remediated web content to conform to WCAG 2.0 and meet AODA legislative standards
+- Developed and documented processes to optimize work efficiency
