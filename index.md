@@ -15,8 +15,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/rockslide/screenshot2.png">
 <img class="landscape" src="assets/images/rockslide/screenshot3.png">
 
-<a href="https://play.google.com/store/apps/details?id=com.adknown.rockslide" target="_blank"><img class="badge" src="assets/images/google-play-badge.png"></a>
-<a href="https://itunes.apple.com/us/app/rockslide-adknown-retro-games/id1255646868" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg"></a>
+<a href="https://play.google.com/store/apps/details?id=com.adknown.rockslide" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Rockslide for Android"></a>
+<a href="https://itunes.apple.com/us/app/rockslide-adknown-retro-games/id1255646868" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Rockslide for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -30,8 +30,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/super-grapple/screenshot1.png">
 <img class="landscape" src="assets/images/super-grapple/screenshot2.png">
 
-<a href="https://play.google.com/store/apps/details?id=com.adknown.supergrapple" target="_blank"><img class="badge" src="assets/images/google-play-badge.png"></a>
-<a href="https://itunes.apple.com/us/app/super-grapple/id1245782227" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg"></a>
+<a href="https://play.google.com/store/apps/details?id=com.adknown.supergrapple" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Super Grapple for Android"></a>
+<a href="https://itunes.apple.com/us/app/super-grapple/id1245782227" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Super Grapple for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -45,8 +45,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/quest-of-legend/screenshot1.png">
 <img class="landscape" src="assets/images/quest-of-legend/screenshot2.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.questoflegendgame.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.questoflegendios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.questoflegend" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Quest of Legend for Android"></a>
+<a href="https://itunes.apple.com/us/app/quest-of-legend/id1255650713" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Quest of Legend for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -62,8 +62,9 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/sword-spinner/screenshot1.png">
 <img class="landscape" src="assets/images/sword-spinner/screenshot2.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.swordspinner.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.swordspinnerios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.swordspinner" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Sword Spinner for Android"></a>
+<a href="https://itunes.apple.com/us/app/sword-spinner/id1246395707" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Sword Spinner for iOS"></a>
+
 
 -------------
 <div class="block" markdown="1">
@@ -80,8 +81,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="portrait" src="assets/images/king-of-sling/screenshot7.png">
 <img class="portrait" src="assets/images/king-of-sling/screenshot8.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.kingofslinggame.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.kingofslingios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.kingofsling" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download King of Sling for Android"></a>
+<a href="https://itunes.apple.com/us/app/king-of-sling/id1246756590" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download King of Sling for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -95,8 +96,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/jetpack-attack/screenshot1.png">
 <img class="landscape" src="assets/images/jetpack-attack/screenshot2.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.jetpackattackgame.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.jetpackattackios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.jetpackattack" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Jetpack Attack for Android"></a>
+<a href="https://itunes.apple.com/us/app/jetpack-attack/id1250149892" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Jetpack Attack for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -111,8 +112,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/astral-ace/screenshot1.png">
 <img class="landscape" src="assets/images/astral-ace/screenshot2.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.astralacegame.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.astralaceios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.astralace" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Astral Ace for Android"></a>
+<a href="https://itunes.apple.com/ca/app/astral-ace/id1252779846?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Astral Ace for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -129,8 +130,8 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot3.png">
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot4.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.tictactoedownload.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.tictactoeios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.tic_tac_toe" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Tic Tac Toe for Android"></a>
+<a href="https://itunes.apple.com/US/app/id1261909745?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Tic Tac Toe for iOS"></a>
 
 -------------
 <div class="block" markdown="1">
@@ -144,5 +145,5 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/para-shooter/screenshot1.png">
 <img class="landscape" src="assets/images/para-shooter/screenshot2.png">
 
-[<img class="badge" src="assets/images/google-play-badge.png">](http://www.parashootergame.com)
-[<img class="badge" src="assets/images/itunes-badge.svg">](http://www.parashooterios.com)
+<a href="https://play.google.com/store/apps/details?id=com.adknown.parashooter" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Para-Shooter for Android"></a>
+<a href="https://itunes.apple.com/us/app/para-shooter/id1265134682?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Para-Shooter for iOS"></a>
