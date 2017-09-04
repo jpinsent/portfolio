@@ -77,6 +77,11 @@ section
   }
 
 /* IMAGES */
+  img
+  {
+    background-color: transparent;
+  }
+
   img.media
   {
     max-width: 50px;
@@ -88,14 +93,12 @@ section
     max-width: 125px;
     max-height: 125px;
     float: left;
-    background-color: transparent;
   }
 
   img.badge
   {
     max-width: 135px;
     max-height: 40px;
-    background-color: transparent;
   }
 
   img.landscape
