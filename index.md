@@ -1,6 +1,6 @@
-<img class="media" src="assets/images/social-media/github-logo.png">
-<img class="media" src="assets/images/social-media/linkedin-logo.jpg">
-<img class="media" src="assets/images/social-media/gmail-logo.png">
+<img class="media" src="assets/images/social-media/GitHub-Mark-120px-plus.png" alt="Joshua Pinsent's Github Profile">
+<img class="media" src="assets/images/social-media/linkedin-logo.png" alt="Joshua Pinsent's Linkedin Profile">
+<img class="media" src="assets/images/social-media/logo_gmail_48px.png" alt="Joshua Pinsent's Gmail">
 
 <ul class="nav">
   <li class="nav"><a href="index.html">Portfolio</a></li>
