@@ -6,6 +6,8 @@
 ## Résumé
 <a href="" target="_blank">Export as PDF</a>
 
+-------------
+
 ### Joshua Pinsent
 
 #### Skills
