@@ -1,3 +1,7 @@
+<img class="media" src="assets/images/social-media/github-logo.png">
+<img class="media" src="assets/images/social-media/linkedin-logo.jpg">
+<img class="media" src="assets/images/social-media/gmail-logo.png">
+
 <ul class="nav">
   <li class="nav"><a href="index.html">Portfolio</a></li>
   <li class="nav"><a href="resume.html">Résumé</a></li>
