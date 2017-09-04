@@ -24,118 +24,129 @@ section
   max-width: 800px;
 }
 
-h1
-{
-  font-weight: normal;
-  font-size: 40px;
-}
+/* HEADINGS */
+  h1
+  {
+    font-weight: normal;
+    font-size: 40px;
+  }
 
-h2
-{
-  font-size: 28px;
-}
+  h2
+  {
+    font-size: 28px;
+  }
 
-h3
-{
-  font-size: 25px;
-  padding-left: 140px;
-}
+  h3
+  {
+    font-size: 25px;
+    padding-left: 140px;
+  }
 
-a
-{
-  text-decoration: underline;
-}
+/* LINKS */
+  a
+  {
+    text-decoration: underline;
+  }
 
-a:link
-{
-  color: #1fff4f;
-}
+  a:link
+  {
+    color: #1fff4f;
+  }
 
-a:active
-{
-  color: #68ff88
-}
+  a:active
+  {
+    color: #68ff88
+  }
 
-a:hover
-{
-  color: #68ff88;
-}
+  a:hover
+  {
+    color: #68ff88;
+  }
 
-a:visited
-{
-  color: #1fff4f;
-}
+  a:visited
+  {
+    color: #1fff4f;
+  }
 
-img.icon
-{
-  max-width: 125px;
-  max-height: 125px;
-  float: left;
-  background-color: transparent;
-}
-
-img.badge
-{
-  max-width: 135px;
-  max-height: 40px;
-  background-color: transparent;
-}
-
-img.landscape
-{
-  width: 250px;
-  height: 150px;
-}
-
-img.portrait
-{
-  width: 150px;
-  height: 250px;
-}
-
-div.block
-{
-  display: inline-block;
-  margin-bottom: 5px;
-}
-
-ul.nav
-{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li.nav 
-{
+/* IMAGES */
+  img.icon
+  {
+    max-width: 125px;
+    max-height: 125px;
     float: left;
-}
+    background-color: transparent;
+  }
 
-li.nav a 
-{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
+  img.badge
+  {
+    max-width: 135px;
+    max-height: 40px;
+    background-color: transparent;
+  }
 
-/* Change the link color to #111 (black) on hover */
-li.nav a:hover 
-{
-    background-color: #111;
-}
+  img.landscape
+  {
+    width: 250px;
+    height: 150px;
+  }
 
-ul
-{
-  margin-left: 120px;
-}
+  img.portrait
+  {
+    width: 150px;
+    height: 250px;
+  }
 
-.content 
-{
-  margin: auto;
-  max-width: 660px;
-  overflow: hidden;
-}
+/* PORTFOLIO CONTENT BLOCK */
+  div.block
+  {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+
+  ul
+  {
+    margin-left: 120px;
+  }
+
+  .content 
+  {
+    margin: auto;
+    max-width: 660px;
+    overflow: hidden;
+  }
+
+/* NAVIGATION BAR */
+  ul.nav
+  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li.nav 
+  {
+      float: left;
+      margin-top: 0px;
+  }
+
+  li.nav a 
+  {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+  }
+
+  li.nav a:hover 
+  {
+      background-color: #111;
+  }
+
+  /* Change the link color to #111 (black) on hover */
+  li.nav a:hover 
+  {
+      background-color: #111;
+  } 
