@@ -5,6 +5,7 @@
 
 ## Résumé
 ### Skills
+
 - Experience working with agile project teams in a fast paced dynamic environment
 - Proficient in programming languages such as C, Java, C++, HTML, CSS, JavaScript, and SQL
 - Experience in working with tools such as Unity, Unreal Engine 4, Adobe Flash, Drupal, Node.js, Git, MicroStrategy, Netezza, Microsoft Office, Adobe Creative Suite, JIRA, and SharePoint
@@ -14,6 +15,7 @@
 - Quick learner who is highly adaptable and open to learning new skills, languages, and concepts
 
 ### Experience
+
 *Teaching Assistant*
 University of Guelph
 Sep 2017 - Present
