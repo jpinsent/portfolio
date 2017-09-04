@@ -85,12 +85,10 @@ section
 
     img.media
     {
-      position: absolute;
-      top: 0px;
-      right: 0px;
       max-width: 40px;
       max-height: 40px;
       background-color: transparent;
+      padding: 3px;
     }
 
     ul.media
