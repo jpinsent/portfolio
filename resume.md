@@ -15,6 +15,7 @@
 <ul class="nav">
   <li class="nav"><a href="index.html">Portfolio</a></li>
   <li class="nav"><a href="resume.html">Résumé</a></li>
+  <li class="nav"><a href="contact.html">Contact</a></li>
 </ul>
 
 ## Résumé
