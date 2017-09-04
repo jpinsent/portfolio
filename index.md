@@ -1,3 +1,8 @@
+<ul class="nav">
+  <li class="nav"><a href="default.asp">Portfolio</a></li>
+  <li class="nav"><a href="news.asp">Resume</a></li>
+</ul>
+
 ## Adknown Retro Games
 All of the games I developed for Adknown Inc. as a part of the Adknown Retro Games team are displayed here. These games were developed in Unity with average development cycles of one and a half weeks (approximately 48 hours).
 
