@@ -1,3 +1,8 @@
+<ul class="nav">
+  <li class="nav"><a href="index.html">Portfolio</a></li>
+  <li class="nav"><a href="resume.html">Résumé</a></li>
+</ul>
+
 ## Résumé
 ### Skills
 - Experience working with agile project teams in a fast paced dynamic environment
