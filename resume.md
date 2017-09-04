@@ -16,11 +16,11 @@
 
 ### Experience
 
-**Teaching Assistant**
+**Teaching Assistant**  
 University of Guelph  
 Sep 2017 - Present  
 
-**Game Development Intern**
+**Game Development Intern**  
 Adknown Inc.  
 May 2017 - Sep 2017  
 - Designed, developed and published Android games from start to finish with Unity
@@ -29,7 +29,7 @@ May 2017 - Sep 2017
 - Published games on the Google Play Store and the iTunes App Store
 - Worked with C# and Java
 
-**Junior Developer & Analyst**
+**Junior Developer & Analyst**  
 The Co-operators  
 May 2016 - Sep 2016  
 - Worked on a large team in an agile environment with bi-weekly sprints to deliver commitments
