@@ -1,6 +1,6 @@
 <ul class="nav">
-  <li class="nav"><a href="default.asp">Portfolio</a></li>
-  <li class="nav"><a href="news.asp">Resume</a></li>
+  <li class="nav"><a href="index.html">Portfolio</a></li>
+  <li class="nav"><a href="resume.html">Resume</a></li>
 </ul>
 
 ## Adknown Retro Games
