@@ -24,16 +24,23 @@ section
   max-width: 800px;
 }
 
+hr
+{
+  height: 1px;
+}
+
 /* HEADINGS */
   h1
   {
     font-weight: normal;
     font-size: 40px;
+    border: none;
   }
 
   h2
   {
     font-size: 28px;
+    border: none;
   }
 
   h3
