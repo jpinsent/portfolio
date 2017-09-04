@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Contact
 
 **Email:** <a href="mailto:joshpinsent@gmail.com">joshpinsent@gmail.com</a>  
