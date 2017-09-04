@@ -4,7 +4,7 @@
 </ul>
 
 ## Résumé
-<a href="" target="_blank">Download as PDF</a>
+<a href="assets/files/JoshuaPinsent-Resume.pdf" target="_blank">Download as PDF</a> | <a href="assets/files/JoshuaPinsent-Resume.docx" target="_blank">Download as DOCX</a>
 
 -------------
 
