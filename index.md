@@ -1,6 +1,6 @@
 <ul class="nav">
   <li class="nav"><a href="index.html">Portfolio</a></li>
-  <li class="nav"><a href="resume.html">Resume</a></li>
+  <li class="nav"><a href="resume.html">Résumé</a></li>
 </ul>
 
 ## Adknown Retro Games
