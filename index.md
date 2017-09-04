@@ -1,6 +1,8 @@
-<img class="media" src="assets/images/social-media/GitHub-Mark-120px-plus.png" alt="Joshua Pinsent's Github Profile">
-<img class="media" src="assets/images/social-media/linkedin-logo.png" alt="Joshua Pinsent's Linkedin Profile">
-<img class="media" src="assets/images/social-media/gmail-logo-resized.png" alt="Joshua Pinsent's Gmail">
+<div class="media">
+	<img class="media" src="assets/images/social-media/GitHub-Mark-120px-plus.png" alt="Joshua Pinsent's Github Profile">
+	<img class="media" src="assets/images/social-media/linkedin-logo.png" alt="Joshua Pinsent's Linkedin Profile">
+	<img class="media" src="assets/images/social-media/gmail-logo-resized.png" alt="Joshua Pinsent's Gmail">
+</div>
 
 <ul class="nav">
   <li class="nav"><a href="index.html">Portfolio</a></li>

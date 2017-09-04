@@ -77,13 +77,22 @@ section
   }
 
 /* IMAGES */
-  img.media
-  {
-    max-width: 40px;
-    max-height: 40px;
-    float: right;
-    background-color: transparent;
-  }
+  /* SOCIAL MEDIA */
+    div.media
+    {
+      position: relative;
+    }
+
+    img.media
+    {
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      max-width: 40px;
+      max-height: 40px;
+      float: right;
+      background-color: transparent;
+    }
 
   img.icon
   {
@@ -91,6 +100,7 @@ section
     max-height: 125px;
     float: left;
     background-color: transparent;
+    top-padding: 0.5em;
   }
 
   img.badge
