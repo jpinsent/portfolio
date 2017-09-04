@@ -4,8 +4,11 @@
 </ul>
 
 ## Résumé
-### Skills
+<a href="" target="_blank">Export as PDF</a>
 
+### Joshua Pinsent
+
+#### Skills
 - Experience working with agile project teams in a fast paced dynamic environment
 - Proficient in programming languages such as C, Java, C++, HTML, CSS, JavaScript, and SQL
 - Experience in working with tools such as Unity, Unreal Engine 4, Adobe Flash, Drupal, Node.js, Git, MicroStrategy, Netezza, Microsoft Office, Adobe Creative Suite, JIRA, and SharePoint
@@ -14,8 +17,7 @@
 - Knowledge of defect tracking systems (JIRA) and incident reporting mechanisms (ServiceFirst, IBM Maximo) to log, quantify, and track the progress of incidents, issues, and change requests
 - Quick learner who is highly adaptable and open to learning new skills, languages, and concepts
 
-### Experience
-
+#### Experience
 **Teaching Assistant**  
 University of Guelph  
 Sep 2017 - Present  
