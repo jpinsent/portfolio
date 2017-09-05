@@ -3,10 +3,10 @@
 
 -------------
 
-### Joshua Pinsent
+<h3 class="resume">Joshua Pinsent</h3>
 Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapinsent</a>
 
-#### Skills
+<h4 class="resume">Skills</h4>
 - Experience working with agile project teams in a fast paced dynamic environment
 - Proficient in programming languages such as C, Java, C++, HTML, CSS, JavaScript, and SQL
 - Experience in working with tools such as Unity, Unreal Engine 4, Adobe Flash, Drupal, Node.js, Git, MicroStrategy, Netezza, Microsoft Office, Adobe Creative Suite, JIRA, and SharePoint
@@ -15,7 +15,7 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 - Knowledge of defect tracking systems (JIRA) and incident reporting mechanisms (ServiceFirst, IBM Maximo) to log, quantify, and track the progress of incidents, issues, and change requests
 - Quick learner who is highly adaptable and open to learning new skills, languages, and concepts
 
-#### Education
+<h4 class="resume">Education</h4>
 **Bachelor of Computing, Computer Science (Honours)**  
 *Sep 2013 – Present*  
 *University of Guelph – Guelph, ON*  
@@ -24,11 +24,7 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 *Sep 2007 – Jun 2011*  
 *Meadowvale Secondary School – Mississauga, ON*  
 
-#### Employment
-**Teaching Assistant**  
-*University of Guelph*  
-*Sep 2017 - Present*  
-
+<h4 class="resume">Employment</h4>
 **Game Development Intern**  
 *Adknown Inc. - Guelph, ON*  
 *May 2017 - Sep 2017*  
@@ -62,7 +58,7 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 - Audited & remediated web content to conform to WCAG 2.0 and meet AODA legislative standards
 - Developed and documented processes to optimize work efficiency
 
-#### Experience
+<h4 class="resume">Experience</h4>
 **Information Technology Student Advisory Committee**  
 *University of Guelph*  
 *Sep 2015 – Mar 2016*  
