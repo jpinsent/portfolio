@@ -4,6 +4,7 @@
 -------------
 
 ### Joshua Pinsent
+Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapinsent</a>
 
 #### Skills
 - Experience working with agile project teams in a fast paced dynamic environment
@@ -16,21 +17,21 @@
 
 #### Education
 **Bachelor of Computing, Computer Science (Honours)**  
-Sep 2013 – Present  
-University of Guelph – Guelph, ON  
+*Sep 2013 – Present*  
+*University of Guelph – Guelph, ON*  
 	
 **Ontario Secondary School Diploma**  
-Sep 2007 – Jun 2011  
-Meadowvale Secondary School – Mississauga, ON  
+*Sep 2007 – Jun 2011*  
+*Meadowvale Secondary School – Mississauga, ON*  
 
-#### Experience
+#### Employment
 **Teaching Assistant**  
-University of Guelph  
-Sep 2017 - Present  
+*University of Guelph*  
+*Sep 2017 - Present*  
 
 **Game Development Intern**  
-Adknown Inc.  
-May 2017 - Sep 2017  
+*Adknown Inc. - Guelph, ON*  
+*May 2017 - Sep 2017*  
 - Designed, developed and published Android games from start to finish with Unity
 - Fixed bugs, added features, and refactored code on existing games
 - Tested, debugged, and improved mobile application performance
@@ -38,8 +39,8 @@ May 2017 - Sep 2017
 - Worked with C# and Java
 
 **Junior Developer & Analyst**  
-The Co-operators  
-May 2016 - Sep 2016  
+*The Co-operators - Guelph, ON*  
+*May 2016 - Sep 2016*  
 - Worked on a large team in an agile environment with bi-weekly sprints to deliver commitments
 - Used MicroStrategy and Netezza enterprise software
 - Generated reports (Daily charts and real time graphs) showcasing query performance trends
@@ -51,8 +52,8 @@ May 2016 - Sep 2016
 - Participated in daily scrum meetings and at times volunteered to run the scrum meetings
 
 **Web Developer**  
-University of Guelph  
-May 2015 - Apr 2016  
+*University of Guelph - Guelph, ON*  
+*May 2015 - Apr 2016*  
 - Worked with Drupal platform to set up and maintain accessible websites
 - Worked on a self-directed team to meet requirements
 - Gained working knowledge of web technologies: HTML, CSS, GUI standards, accessibility
@@ -60,3 +61,24 @@ May 2015 - Apr 2016
 - Attended seminars for computer and internet security
 - Audited & remediated web content to conform to WCAG 2.0 and meet AODA legislative standards
 - Developed and documented processes to optimize work efficiency
+
+#### Experience
+**Information Technology Student Advisory Committee**  
+*University of Guelph*  
+*Sep 2015 – Mar 2016*  
+- Participated in a committee run by the University of Guelph’s IT department
+- Communicated directly with website operators and IT staff to advise them on their websites
+
+**3D Maps Photo Designer**  
+*Google*  
+*Oct 2011 – Nov 2012*  
+- Co-assisted a University of Guelph student in converting 2D pictures to 3D images for Google Maps
+- Worked with Photoshop to produce refined images to be used for three-dimensional mapping
+
+**Beta Tester**  
+*Prototype N – Independent Video Game Developer*  
+*Jan. 2007 – Present*  
+- Worked with an independent video game developer to beta test a video game
+- Acquired skills to thoroughly test and debug software
+
+References available upon request.
