@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+
+      <section>
+        <div id="title">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+
+        <!--[Navigation Bar]-->
+        <ul class="nav">
+          <li class="nav"><a href="index.html">Portfolio</a></li>
+          <li class="nav"><a href="resume.html">Résumé</a></li>
+          <li class="nav"><a href="contact.html">Contact</a></li>
+          <li class="media"><a href="https://github.com/jpinsent" target="_blank"><img class="media" src="assets/images/social-media/GitHub-Mark-120px-plus.png" alt="Joshua Pinsent's Github Profile"></a></li>
+          <li class="media"><a href="https://www.linkedin.com/in/joshua-pinsent/" target="_blank"><img class="media" src="assets/images/social-media/linkedin-logo.png" alt="Joshua Pinsent's Linkedin Profile"></a></li>
+          <li class="media"><a href="mailto:joshpinsent@gmail.com"><img class="media" src="assets/images/social-media/gmail-logo-resized.png" alt="Joshua Pinsent's Gmail"></a></li>
+        </div>
+
+        {{ content }}
+
+      </section>
+    </div>
+
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
