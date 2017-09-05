@@ -88,7 +88,6 @@ section
     div.media
     {
       position: relative;
-      bottom: 50px;
     }
 
     img.media
@@ -105,12 +104,13 @@ section
       margin: 0px;
       padding: 0px;
       overflow: hidden;
+      background-color: #333;
     }
 
     li.media 
     {
-        float: right;
-        margin-top: 0em;
+      float: right;
+      margin-top: 0em;
     }
 
   img.icon
