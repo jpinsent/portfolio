@@ -23,7 +23,9 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <!--[Social Media Buttons]-->
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+        <!--[Social Media Buttons]-->
           <div class="media">
             <ul class="media">
               <a href="https://github.com/jpinsent" target="_blank">
@@ -37,17 +39,15 @@
               </a>
             </ul>
           </div>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-          
+        <div>
+          <!--[Navigation Bar]-->
+          <ul class="nav">
+            <li class="nav"><a href="index.html">Portfolio</a></li>
+            <li class="nav"><a href="resume.html">Résumé</a></li>
+            <li class="nav"><a href="contact.html">Contact</a></li>
+          </ul>
         </div>
-
-        <!--[Navigation Bar]-->
-        <ul class="nav">
-          <li class="nav"><a href="index.html">Portfolio</a></li>
-          <li class="nav"><a href="resume.html">Résumé</a></li>
-          <li class="nav"><a href="contact.html">Contact</a></li>
-        </ul>
 
         {{ content }}
 
