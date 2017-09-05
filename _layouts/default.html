@@ -23,8 +23,6 @@
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-
           <!--[Social Media Buttons]-->
           <div class="media">
             <ul class="media">
@@ -39,6 +37,9 @@
               </a>
             </ul>
           </div>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+          
         </div>
 
         <!--[Navigation Bar]-->
