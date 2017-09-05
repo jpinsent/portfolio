@@ -1,5 +1,5 @@
 ## Adknown Retro Games
-All of the games I developed for Adknown Inc. as a part of the Adknown Retro Games team are displayed here. These games were developed in Unity with average development cycles of one and a half weeks (approximately 48 hours).
+All of the games I developed for Adknown Inc. as a part of the Adknown Retro Games team are displayed here. These games were developed in Unity with C#. Each game had an average development cycle of one and a half weeks (approximately 48 hours).
 
 -------------
 
