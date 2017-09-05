@@ -200,8 +200,7 @@ section
       background-color: #111;
   }
 
-  /* Change the link color to #111 (black) on hover */
-  li.nav a:hover 
+  li.nav a:active 
   {
-      background-color: #111;
-  } 
+    background-color: #1fff4f;
+  }
