@@ -25,6 +25,14 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 *Meadowvale Secondary School – Mississauga, ON*  
 
 <h4 class="resume">Employment</h4>
+**Teaching Assistant**  
+*University of Guelph – Guelph, ON*  
+*Sept. 2017 – Present*  
+- Created lessons, tutorials, and marking schemes for students on HTML, CSS, and JavaScript
+- Hosted online office hours and led in-person seminars to assist students with their assignments
+- Created websites from scratch for students to use as examples for their assignments
+
+
 **Game Development Intern**  
 *Adknown Inc. - Guelph, ON*  
 *May 2017 - Sep 2017*  
