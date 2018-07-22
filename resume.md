@@ -8,16 +8,18 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 
 <h4 class="resume">Skills</h4>
 - Experience working with agile project teams in a fast paced dynamic environment
-- Proficient in programming languages such as C, Java, C++, HTML, CSS, JavaScript, and SQL
-- Experience in working with tools such as Unity, Unreal Engine 4, Adobe Flash, Drupal, Node.js, Git, MicroStrategy, Netezza, Microsoft Office, Adobe Creative Suite, JIRA, and SharePoint
-- Highly familiar with Web Content Accessibility Guidelines 2.0
+- Proficient in programming languages such as C, C#, C++, Java, Python, HTML, JavaScript, and SQL
+- Independent and AAA game development experience working with Unity, Unreal Engine 4, and Frostbite
+- Familiar with developing and publishing applications for iTunes Connect and Google Play Store
+- Experience working with tools such as Visual Studio, Perforce, Elasticsearch, Node.js, Git, JIRA, Adobe Creative Suite
+- Passionate about software accessibility and trained in Web Content Accessibility Guidelines 2.0
 - Experienced with Windows and Linux operating systems
 - Knowledge of defect tracking systems (JIRA) and incident reporting mechanisms (ServiceFirst, IBM Maximo) to log, quantify, and track the progress of incidents, issues, and change requests
 - Quick learner who is highly adaptable and open to learning new skills, languages, and concepts
 
 <h4 class="resume">Education</h4>
 **Bachelor of Computing, Computer Science (Honours)**  
-*Sep 2013 – Present*  
+*Sep 2013 – Aug 2018*  
 *University of Guelph – Guelph, ON*  
 	
 **Ontario Secondary School Diploma**  
@@ -25,6 +27,16 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 *Meadowvale Secondary School – Mississauga, ON*  
 
 <h4 class="resume">Employment</h4>
+**Associate Developer**
+*Jan 2018 - Aug 2018*
+*Motive Studios (EA Montreal) - Montreal, QB*
+- Worked on the engine team for an unnanounced title
+- Became familiarized with internal AAA development tools
+- Used C++ and C# to develop an automated test that collected in-game performance telemetry
+- Wrote Python scripts to upload performance data into Elasticsearch mappings
+- Used JavaScript and an ASP.NET framework to develop, deploy, and maintain a heatmap visualization of the performance telemetry
+- Worked closely with Quality Engineering and Deployment & Release Engineering teams
+
 **Teaching Assistant**  
 *University of Guelph – Guelph, ON*  
 *Sept. 2017 – Present*  
