@@ -27,9 +27,9 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 *Meadowvale Secondary School – Mississauga, ON*  
 
 <h4 class="resume">Employment</h4>
-**Associate Developer**
-*Jan 2018 - Aug 2018*
-*Motive Studios (EA Montreal) - Montreal, QB*
+**Associate Developer**  
+*Motive Studios (EA Montreal) - Montreal, QB*  
+*Jan 2018 - Aug 2018*  
 - Worked on the engine team for an unnanounced title
 - Became familiarized with internal AAA development tools
 - Used C++ and C# to develop an automated test that collected in-game performance telemetry
@@ -39,7 +39,7 @@ Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapi
 
 **Teaching Assistant**  
 *University of Guelph – Guelph, ON*  
-*Sept. 2017 – Present*  
+*Sep 2017 – Dec 2017*  
 - Created lessons, tutorials, and marking schemes for students on HTML, CSS, and JavaScript
 - Hosted online office hours and led in-person seminars to assist students with their assignments
 - Created websites from scratch for students to use as examples for their assignments
