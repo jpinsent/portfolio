@@ -1,29 +1,14 @@
 ## Adknown Retro Games
 All of the games I developed for Adknown Inc. as a part of the Adknown Retro Games team are displayed here. These games were developed in Unity with C#. Each game had an average development cycle of one and a half weeks (approximately 48 hours).
 
--------------
-
-<div class="block" markdown="1">
-<img class="icon" src="assets/images/rockslideicon.png">
-### Rockslide
-- Implemented tiled level generation from text files to speed up design time and extensibility
-- Built puzzle solving gameplay including touchscreen movement, physics, collision detection
-- Among Adknown's top performing games, with over 11,000 installs on the Google Play Store
-</div>
-
-<img class="landscape" src="assets/images/rockslide/screenshot0.png">
-<img class="landscape" src="assets/images/rockslide/screenshot2.png">
-<img class="landscape" src="assets/images/rockslide/screenshot3.png">
-
-<a href="https://play.google.com/store/apps/details?id=com.adknown.rockslide" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Rockslide for Android"></a>
-<a href="https://itunes.apple.com/us/app/rockslide-adknown-retro-games/id1255646868" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Rockslide for iOS"></a>
+Unfortunately, some of these games can no longer be found on the store. Adknown decided to focus on endless arcade-style games, so some of the online-multiplayer and singleplayer games with set numbers of levels have been removed.
 
 -------------
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/supergrappleicon.png">
 ### Super Grapple
 - Implemented core gameplay, including grappling hook mechanics and unlockable characters
-- Among Adknown's top reviewed games
+- Among Adknown's top performing games at 5000+ installs
 </div>
 
 <img class="landscape" src="assets/images/super-grapple/screenshot0.png">
@@ -101,6 +86,35 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 
 -------------
 <div class="block" markdown="1">
+<img class="icon" src="assets/images/parashootericon.png">
+### Para-Shooter
+- Extended code from the [Corgi Engine](https://www.assetstore.unity3d.com/en/#!/content/26617)
+- Created missile AI that pursues the player
+</div>
+
+<img class="landscape" src="assets/images/para-shooter/screenshot0.png">
+<img class="landscape" src="assets/images/para-shooter/screenshot1.png">
+<img class="landscape" src="assets/images/para-shooter/screenshot2.png">
+
+<a href="https://itunes.apple.com/us/app/para-shooter/id1265134682?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Para-Shooter for iOS"></a>
+
+-------------
+<div class="block" markdown="1">
+<img class="icon" src="assets/images/rockslideicon.png">
+### Rockslide
+- Implemented tiled level generation from text files to speed up design time and extensibility
+- Built puzzle solving gameplay including touchscreen movement, physics, collision detection
+- Among Adknown's top performing games, with over 11,000 installs on the Google Play Store
+</div>
+
+<img class="landscape" src="assets/images/rockslide/screenshot0.png">
+<img class="landscape" src="assets/images/rockslide/screenshot2.png">
+<img class="landscape" src="assets/images/rockslide/screenshot3.png">
+
+This game can no longer be downloaded from the store.
+
+-------------
+<div class="block" markdown="1">
 <img class="icon" src="assets/images/astralaceicon.png">
 ### Astral Ace
 - Added multiplayer functionality using [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786)
@@ -112,15 +126,13 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="landscape" src="assets/images/astral-ace/screenshot1.png">
 <img class="landscape" src="assets/images/astral-ace/screenshot2.png">
 
-<a href="https://play.google.com/store/apps/details?id=com.adknown.astralace" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Astral Ace for Android"></a>
-<a href="https://itunes.apple.com/ca/app/astral-ace/id1252779846?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Astral Ace for iOS"></a>
+This game can no longer be downloaded from the store.
 
 -------------
 <div class="block" markdown="1">
 <img class="icon" src="assets/images/tictactoeicon.png">
 ### Tic Tac Toe
 - Ported an existing Java Tic-Tac-Toe game to Unity
-- Optimized code
 - Added unlockable backgrounds
 </div>
 
@@ -130,20 +142,4 @@ All of the games I developed for Adknown Inc. as a part of the Adknown Retro Gam
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot3.png">
 <img class="portrait" src="assets/images/tic-tac-toe/screenshot4.png">
 
-<a href="https://play.google.com/store/apps/details?id=com.adknown.tic_tac_toe" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Tic Tac Toe for Android"></a>
-<a href="https://itunes.apple.com/US/app/id1261909745?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Tic Tac Toe for iOS"></a>
-
--------------
-<div class="block" markdown="1">
-<img class="icon" src="assets/images/parashootericon.png">
-### Para-Shooter
-- Extended code from the [Corgi Engine](https://www.assetstore.unity3d.com/en/#!/content/26617)
-- Created missile AI that pursues the player
-</div>
-
-<img class="landscape" src="assets/images/para-shooter/screenshot0.png">
-<img class="landscape" src="assets/images/para-shooter/screenshot1.png">
-<img class="landscape" src="assets/images/para-shooter/screenshot2.png">
-
-<a href="https://play.google.com/store/apps/details?id=com.adknown.parashooter" target="_blank"><img class="badge" src="assets/images/google-play-badge.png" alt="Download Para-Shooter for Android"></a>
-<a href="https://itunes.apple.com/us/app/para-shooter/id1265134682?mt=8" target="_blank"><img class="badge" src="assets/images/itunes-badge.svg" alt="Download Para-Shooter for iOS"></a>
+This game can no longer be downloaded from the store.
