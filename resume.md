@@ -4,7 +4,7 @@
 -------------
 
 <h3 class="resume">Joshua Pinsent</h3>
-Email: joshpinsent@gmail.com | LinkedIn: <a>https://www.linkedin.com/in/joshuapinsent</a>
+LinkedIn: <a>https://www.linkedin.com/in/joshuapinsent</a>
 
 <h4 class="resume">Skills</h4>
 - Experience working with agile project teams in a fast paced dynamic environment
